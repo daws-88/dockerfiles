@@ -1,3 +1,4 @@
 FROM run:v1
 LABEL  course="azure" \
-       duration="100hrs"
+       duration="100hrs" \
+       author="psai96526@gmail.com"
