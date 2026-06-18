@@ -2,4 +2,4 @@ FROM almalinux:9
 ENV course="gcp" \
     trainer="sai" \
     duration="10hrs"
-CMD ["sleep", "180"]
+CMD ["sleep", "500"]
