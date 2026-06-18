@@ -1,4 +1,4 @@
-FROM run:v1
+FROM almalinux:9  
 LABEL  course="azure" \
        duration="100hrs" \
        author="psai96526@gmail.com"

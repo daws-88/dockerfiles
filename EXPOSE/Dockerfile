@@ -1,2 +1,2 @@
-FROM cmd:v1
+FROM almalinux:9
 EXPOSE 80/tcp
