@@ -1,0 +1,3 @@
+FROM run:v1
+LABEL  course="azure" \
+       duration="100hrs"
